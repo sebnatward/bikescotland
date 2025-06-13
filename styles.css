@@ -1,0 +1,37 @@
+body{
+    background-color: dodgerblue;
+    text-align: center;
+}
+
+.bgDark{
+    background-color: lightgray;
+}
+
+a{
+    color: azure;
+    font-size: 30px;
+    font-family:fantasy;
+}
+
+a:hover{
+    color: midnightblue;
+}
+
+.potta-one-regular {
+  font-family: "Potta One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1{
+  font-family: "Potta One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+} font-size: 50px;
+
+}
+h2{
+  font-family: "Potta One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+} font-size: 50px;
